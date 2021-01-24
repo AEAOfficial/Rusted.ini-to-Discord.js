@@ -1,3 +1,2 @@
-cd ./python
-python ../run.py
+python run.py
 pause
